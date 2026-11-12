@@ -8,5 +8,16 @@
  },
  "title": "Eclipse Legacy Recon MCP",
  "version": "0.1.0",
- "websiteUrl": "https://eclipsebazaar.com"
+ "websiteUrl": "https://eclipsebazaar.com",
+ "packages": [
+  {
+   "registryType": "pypi",
+   "identifier": "cyan-eclipse-legacy-recon",
+   "version": "0.1.0",
+   "runtimeHint": "uvx",
+   "transport": {
+    "type": "stdio"
+   }
+  }
+ ]
 }
